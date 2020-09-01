@@ -1,6 +1,6 @@
 {
   "*.js": [
       "standard --fix",
-      "jest"
+      "npm run test:staged"
   ]
 }
